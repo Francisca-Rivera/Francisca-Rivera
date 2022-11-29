@@ -2,7 +2,7 @@
 
 ### Front-end developer from Chile,
 
-- 🔭 I’m currently learning on JavaScript and Node.js
+- 🔭 I’m currently learning on JavaScript, Node.js and React.js
 - 🌟 I love learning new things
 - 💬 Ask me about ...
 - 📫 How to reach me: franda.chi@gmail.com
